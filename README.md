@@ -1,4 +1,5 @@
 Project Name: Restaurant Data Analysis (FODS Assignment 1)
+
 Description
 This project analyzes restaurant data, focusing on various aspects such as cuisine, ratings, seating capacity, and revenue. The dataset contains the following fields:
 
