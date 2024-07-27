@@ -27,6 +27,7 @@ Explore and analyze the data using descriptive statistics.
 Visualize insights using Matplotlib or Seaborn.
 Feel free to contribute or use this data for your own analysis!
 
+Using this dataset, I can perform a variety of data science tasks. I'll start with data cleaning and preparation, then explore summary statistics and visualize the data using histograms, bar charts, and heatmaps. I can analyze correlations, compare different variables like ratings vs. prices, and investigate factors affecting revenue. Advanced tasks include building predictive models, clustering, and sentiment analysis if review text is available. I'll visualize insights with geographical mapping and time series analysis, and present findings through interactive dashboards or comprehensive reports. This analysis can provide valuable insights to enhance restaurant operations and marketing strategies.
 
 Contributors
 Balavignesh Shanmugam(bala-myself).
